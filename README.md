@@ -49,7 +49,7 @@ Regional Commercial Director @ Okadoc Technologies
 
 ## 📄 Live Preview
 
-👉 [Open Case Study](https://tommygio79.github.io/okadoc-m42-case-study)
+👉 [Open Case Study](https://tommygio79.github.io/Business_Case_M42/)
 
 ---
 
